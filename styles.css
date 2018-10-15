@@ -1,10 +1,10 @@
 .square {
 	background: gray;
-	padding: 110px;
+	padding: 90px;
 	margin: 1px;
 	text-align: center;
 	color: white;
-	font-size: 50px
+	font-size: 30px
 }
 #random {
 	padding: 20px;
